@@ -1,3 +1,4 @@
+#show length of the String
 s1=input("Enter the String")
 num=0
 for i in s1:
